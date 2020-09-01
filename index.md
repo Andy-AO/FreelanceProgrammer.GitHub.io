@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## 组队计划
 
-You can use the [editor on GitHub](https://github.com/FreelanceProgrammer/FreelanceProgrammer.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+在V2EX上见过大量，花费了很多心思，最后没有人用的产品，比如这个[电子杂志项目](https://www.v2ex.com/t/700202#reply31)。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+通过独立软件开发来获得收入，比技术更重要的可能是产品和商业方面的知识。
+
+微信群多以吹水和吹牛为主，里面人很多，但付诸行动的人很少，这个计划想找到真正已经开始的人，互相认识下，交流经验。
+
+如果你想试试看，或者只想进微信群观望一下，都可以扫下方二维码。
 
 ### Markdown
 
