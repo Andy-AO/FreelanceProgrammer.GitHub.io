@@ -6,36 +6,14 @@
 
 微信群多以吹水和吹牛为主，里面人很多，但付诸行动的人很少，这个计划想找到真正已经开始的人，互相认识下，交流经验。
 
-如果你想试试看，或者只想进微信群观望一下，都可以扫下方二维码。
+如果你想试试看，或者只想进微信群观望，都可以扫下方二维码。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 链接
 
-# Header 1
-## Header 2
-### Header 3
+- [组队计划： 一起学习探索并输出 一些好产品的 商业模式内容 - V2EX](https://www.v2ex.com/t/699630)
 
-- Bulleted
-- List
+- [组队计划：在独立开发者中建立紧密合作 - V2EX](https://www.v2ex.com/t/695954)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FreelanceProgrammer/FreelanceProgrammer.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##  FAQ
